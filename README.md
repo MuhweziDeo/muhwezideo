@@ -6,7 +6,7 @@
 
 - 💬 Ask me about Javascript(Node/Express, Typescript, Angular, React), PHP and Python
 
-- 📫 How to reach me: http://deo-muhwezi.netlify.com/
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/muhwezi-deo-b46216b5/)
 
 - ⚡ Fun fact: Life long learner and always looking to try new things
 
